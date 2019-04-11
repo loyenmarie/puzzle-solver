@@ -1,0 +1,40 @@
+#8tiles {
+	margin: auto !important;
+}
+
+.tile {
+	width: 100px;
+	height: 100px;
+	font-size: 40px;
+	color: white;
+	background-color: rgb(124, 131, 183);
+	font-family: 'calibri','serif'
+}
+
+.tile:hover {
+	color: white;
+	background-color: rgb(128, 129, 137);
+}
+
+.blank {
+	background-color: white;
+}
+
+.blank:hover {
+	background-color: rgb(128, 129, 137);
+}
+
+#begin {
+	background-color: rgb(124, 131, 183);
+	color: white;
+	font-size: 30px;
+	font-family: 'calibri','serif';
+}
+
+.container {
+
+padding-left: 190px;
+
+
+
+}
